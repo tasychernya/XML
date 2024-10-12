@@ -1,1 +1,12 @@
 
+<bug_report>
+    <description>ИД бага</description>
+    <description>Серьезность бага</description>
+    <description>Окружение</description>
+    <description>Ник нейм тестировщика</description>
+     <description>Описание</description>
+    <steps_to_reproduce>Шаги для воспроизведения</steps_to_reproduce>
+    <expected_result>Ожидаемый результат</expected_result>
+    <actual_result>Фактический результат</actual_result>
+    <actual_result></actual_result>
+</bug_report>
